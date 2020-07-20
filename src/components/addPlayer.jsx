@@ -36,9 +36,7 @@ class AddPlayer extends React.Component {
                 playstyle: this.state.playstyle,
                 teamId: this.state.teamId
             },
-            refetchQueries: [{
-                query: getPlayersQuery
-            }]
+            refetchQueries: [{ query: getPlayersQuery }]
         });
     }
 
