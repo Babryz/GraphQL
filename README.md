@@ -1,5 +1,5 @@
-#Rocket League App with React and GraphQL
-##The reason I did this was to learn GraphQL
+# Rocket League App with React and GraphQL
+## The reason I did this was to learn GraphQL
 
 ## To start:
 - open terminal and cd into main-folder and then execute "npm start"
